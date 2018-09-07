@@ -1,0 +1,16 @@
+{
+    "name": "leellh/umeng-push",
+    "description": "umeng push php composer version",
+    "keywords": ["push"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "leellh",
+            "email": "blueskyllh@163.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload":{
+        "psr-4": { "leellh\\umengpush\\": "src/" }
+    }
+}
